@@ -1,5 +1,6 @@
 #include<stdio.h>
 main{
-printf "Hllo world\n";
+      printf "Hello world\n";
+      printf "Hy there"
 retun 0;
 }
