@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508893423 source:c:\users\aldo1\documents\doc\tugas\daspro\pdp-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1510229381 source:c:\users\aldo1\documents\doc\tugas\daspro\latihan pertemuan 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
